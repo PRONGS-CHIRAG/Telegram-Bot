@@ -1,6 +1,6 @@
 import telepot
 import time
-token = '696934831:AAHhZzb-JS58G-6gzpCb4o1b93QW6zseIUk'
+token = 'Replace this by the your token'
 Bot = telepot.Bot(token)
 print(Bot.getMe())
 Bot.getUpdates()
